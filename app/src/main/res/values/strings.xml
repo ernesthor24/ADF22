@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ADF2.2CodingChallenge</string>
+    <string name="title_activity_item_list">ItemList</string>
+    <string name="cheese">Cheese</string>
+    <string name="banana">Banana</string>
+    <String name="rice">Rice</String>
+    <String name="apples">Apples</String>
+    <String name="milk">Milk</String>
+    <String name="water">Water</String>
+    <String name="cereal">Cereal</String>
+    <String name="vitamins">Vitamins</String>
+    <String name="pork">Pork</String>
+    <String name="beef">Beef</String>
+    <String name="chicken">Chicken</String>
+    <String name="oil">Oil</String>
+    <String name="flour">Flour</String>
+    <String name="butter">Butter</String>
+    <String name="bread">Bread</String>
+    <String name="shop">Shopping List</String>
+    <String name="mall">Item List</String>
+    <String name="add">Add to Cart</String>
+    <String name="go">Check Items</String>
+</resources>
